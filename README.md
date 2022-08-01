@@ -17,3 +17,4 @@ the animal preparation and recovery time by >98%, significantly increasing
 experimental speed. By obviating individual animal manipulation, our approach 
 could also empower automated imaging of large C. elegans populations within 
 standard experimental setups and workflows.
+![CoolingStageImage-20211028](https://user-images.githubusercontent.com/30614398/182185289-23683130-c62a-4508-b216-96a7dbd73872.jpg)
